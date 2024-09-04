@@ -1,5 +1,4 @@
 # 4.-semester-project-Arduino
-My fourth-semester project using Arduino 
 
 For our Fourth semester project, we were told to make a physical prototype using microcomputers such as Arduino with the theme of: "Physical design in the bathroom". From this, we wanted to develop a modernization of the shower with a focus on personalising and customising it. 
 
